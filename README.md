@@ -6,6 +6,7 @@
 <a href="mailto:ailleen1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://developed-gwaboon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailleen1004&show_icons=true&layout=compact&exclude_repo=study&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailleen1004&show_icons=true&theme=tokyonight)
 
 <h2>🐣 This is where some AI engineer is dreaming 💫</h2>
